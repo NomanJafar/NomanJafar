@@ -22,6 +22,8 @@ Recent work (case studies on provemvp.com):
 | [Emma Vault](https://provemvp.com/work/emma-vault) | Website and subscription flow for an encrypted on-device vault | React, Stripe, Firebase |
 | [Elysium](https://provemvp.com/work/elysium) | Multi-store commerce backend and admin panel | Fastify, TypeScript, Postgres, Neo4j, Auth0 |
 
+Open source from that work: **[checkout-rules-core](https://github.com/NomanJafar/checkout-rules-core)**, the typed rules engine behind Checkout Guard (Zod schemas, a compiler that fits rule sets under Shopify's 10 kB Function limit, an evaluator, 47 tests).
+
 **Stack I reach for:** TypeScript, Next.js, React Native / Expo, NestJS, Node, .NET, Python / Django, PostgreSQL, Docker, AWS, Shopify.
 
 ---
@@ -43,4 +45,9 @@ Every repo has a concept primer, CPU-runnable tests, the GPU notebooks that prod
 
 ---
 
-Have an idea you need to prove? [Book a 20-minute call](https://provemvp.com/#contact) or email [info@provemvp.com](mailto:info@provemvp.com).
+## Work with me
+
+- **Have an idea to prove?** ProveMVP builds it in 14 days. See [pricing](https://provemvp.com/pricing) or [book a 20-minute call](https://provemvp.com/#contact).
+- **Need an engineer?** I'm available for contract work and open to senior full-stack or LLM inference infrastructure roles, remote or in Lahore.
+
+[info@provemvp.com](mailto:info@provemvp.com) · [LinkedIn](https://www.linkedin.com/in/noman-jafar/)
